@@ -6,6 +6,8 @@
 ⚙️ Currently sharpening my backend skills with **Express.js** and **MongoDB**, and exploring **FastAPI** for deploying ML models
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogSwoyam45&layout=compact&theme=tokyonight&langs_count=6)
+
 
 ### 🔭 Projects & Builds
 
