@@ -1,4 +1,4 @@
-## Hi there 👋
+#### Hi there 👋
 ###I'm Swoyam Swarup Nanda! 👋
 
 🎓 Final-year B.Tech Computer Science student at **IIIT Bhubaneswar**  
