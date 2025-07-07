@@ -1,5 +1,5 @@
 #### Hi there 👋
-###I'm Swoyam Swarup Nanda! 👋
+### I'm Swoyam Swarup Nanda! 👋
 
 🎓 Final-year B.Tech Computer Science student at **IIIT Bhubaneswar**  
 🧠 Passionate about solving real-world problems using **Machine Learning** and **Fullstack Web Development**  
